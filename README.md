@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mario
 #### Data Scientist and Developer
-![Data Scientist and Developer]()
+
 
 Currently pursuing a Master's degree in Data Science. Specialized in helping business units make data-driven decisions using ETL processes.
 
