@@ -3,7 +3,8 @@
 
 ![https://github.com/multivacs](./multivacs_github_profile.png)
 
-[<img src='https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge' height='30'>](https://multivacs.com)
+[<img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/mario-calpena/)
+[<img src='https://img.shields.io/badge/Portfolio-purple?labelColor=white' height='30'>](https://multivacs.com)
 [<img src='https://img.shields.io/badge/Blog-black?logo=blogger&logoColor=white&labelColor=101010' height='30'>](https://blog.multivacs.com)  
 
 I'm a data scientist with 3 years of experience in the field, working with multidisciplinary and international teams in the agronomy and biological business. Specialized in helping business units make data-driven decisions using ETL processes, prediction models, dashboards and data analysis.
@@ -27,9 +28,13 @@ Since 2024 I write articles on [My blog](https://blog.multivacs.com) related to 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 
-## Contact me
+## Featured Projects
+- [ADHD Prediction with Neural Networks](https://github.com/multivacs/TFG2023)
+- [Introduction to Neural Networks with PyTorch](https://github.com/multivacs/intro-nn)
 
 
-[<img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/mario-calpena/)
-</br>
-[<img src='https://img.shields.io/badge/mario.calpena@outlook.es-D14836?logo=gmail&logoColor=white&labelColor=101010' height='30'>](mailto:mario.calpena@outlook.es)
+## Latest Blog Posts ES
+- [Clasificación de géneros musicales con Machine Learning y Scikit-learn](https://blog.multivacs.com/posts/mineria-datos/)
+- [Introducción a las Redes Neuronales Parte 1 - Regresión Binaria](https://blog.multivacs.com/posts/intro-nn-regressor/)
+- [Cómo crear visualizaciones de mapas en Python con Folium](https://blog.multivacs.com/posts/crear-visualizaciones-folium/)
+- [¿Cómo empezar en Data Science?](https://blog.multivacs.com/posts/empezar-en-data-science/)
