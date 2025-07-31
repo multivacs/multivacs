@@ -7,8 +7,9 @@
 [<img src='https://img.shields.io/badge/Portfolio-purple?labelColor=white' height='30'>](https://multivacs.com)
 [<img src='https://img.shields.io/badge/Blog-black?logo=blogger&logoColor=white&labelColor=101010' height='30'>](https://blog.multivacs.com)  
 
-I'm a data scientist with 3 years of experience in the field, working with multidisciplinary and international teams in the agronomy and biological business. Specialized in helping business units make data-driven decisions using ETL processes, prediction models, dashboards and data analysis.
-Currently pursuing a Master's degree in Data Science. 
+Data scientist with +3 years of experience in international projects.
+Specialized in predictive analysis, customer segmentation and design dashboards to support decision-making in the agricultural sector.
+Currently pursuing a Master's degree in Data Science.
 
 Since 2024 I write articles on [My blog](https://blog.multivacs.com) related to data science, artificial intelligence and everything that I find interest in learning and share.
 
